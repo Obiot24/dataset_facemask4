@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images2</folder>
+	<filename>2692.jpg</filename>
+	<path>C:\Users\andre\Downloads\archive (1)\Medical mask\Medical mask\Medical Mask\images2\2692.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>401</width>
+		<height>465</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_no_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>115</ymin>
+			<xmax>286</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

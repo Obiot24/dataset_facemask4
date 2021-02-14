@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images2</folder>
+	<filename>2019.jpg</filename>
+	<path>C:\Users\andre\Downloads\archive (1)\Medical mask\Medical mask\Medical Mask\images2\2019.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_no_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>386</xmin>
+			<ymin>246</ymin>
+			<xmax>1092</xmax>
+			<ymax>1245</ymax>
+		</bndbox>
+	</object>
+</annotation>

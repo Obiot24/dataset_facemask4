@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>4735.jpg</filename>
+  <path>C:/Users/andre/Downloads/archive (1)/Medical mask/Medical mask/Medical Mask/images/4735.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>580</width>
+    <height>499</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>face_with_mask</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>140</xmin>
+      <ymin>28</ymin>
+      <xmax>346</xmax>
+      <ymax>325</ymax>
+    </bndbox>
+  </object>
+</annotation>
